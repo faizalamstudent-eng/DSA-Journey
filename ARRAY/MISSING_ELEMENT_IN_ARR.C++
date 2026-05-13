@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int arr[6] = {1,2,3,4,0,5};
+    int arr[6] = {1,2,3,4,1,5};
     int n = 6;
 
     int total = n * (n + 1) / 2;
